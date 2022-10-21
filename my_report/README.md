@@ -6,21 +6,16 @@
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
-pp
+test1
 # Summary
-apppp
-fw
+test1
 # 1st Deliverable
-
-ae
+test1
 # 2nd Deliverable
-
-a
+test1
 # 3rd Deliverable 
-
-af
+test1
 # Conclusions
-
-af
+test1
 # Sources
-afaaf
+test1
